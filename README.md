@@ -1,6 +1,6 @@
 ⠿ 🪬 Hi, I’m Minerva Orlova, people call me _**Neveda**_.  
 ⠿ ⚡️ Interested in documentation, standards and secure programming.  
-⠿ 🌱 Learning cybersecurity, Python, Javascript.
+⠿ 🌱 Learning cybersecurity, Python, Javascript.  
 ⠿ 🚀 Looking to collaborate on testing, documentation and standards.  
 ⠿ 💬 Ask me about UNIX shells, POSIX, LaTeX ...  
 ⠿ 🍴 Monthly mirrors at [@carbon-vault](https://github.com/carbon-vault)  
