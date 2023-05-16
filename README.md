@@ -6,7 +6,7 @@
 ⠿ 🍴 Monthly mirrors at [@carbon-vault](https://github.com/carbon-vault)  
 ⠿ ✉️ Contact: <mnrvwl@protonmail.com>
 
-Former @mnrvwl (2020-2023)
+@mnrvwl (2020-2023)
 
 ## 🎧 🎼
 
