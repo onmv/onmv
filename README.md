@@ -1,9 +1,11 @@
-⠿ 🪬 Hi, I’m Minerva Orlova, people call me _**Neveda**_. Formerly @mnrvwl (2020-2023)
+⠿ 🪬 Hi, I’m Minerva Orlova, people also call me _**Neveda°**_.  
 ⠿ ⚡️ Interested in documentation, standards and secure programming.  
 ⠿ 🌱 Learning cybersecurity, Python, Javascript...
 ⠿ 🚀 Looking to collaborate on testing, documentation and standards.  
 ⠿ 💬 Ask me about UNIX shells, POSIX, LaTeX...  
 ⠿ 🍴 Monthly mirrors at [@carbon-vault](https://github.com/carbon-vault)  
+⠿ 📜 Former @mnrvwl (2020-2023)  
+⠿ 🔑 GPG:   
 ⠿ ✉️ Contact: <mnrvwl@protonmail.com>
 
 ## 🎧 🎼
