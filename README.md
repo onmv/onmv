@@ -4,7 +4,7 @@
 ⠿ 🚀 Looking to collaborate on testing, documentation and standards.  
 ⠿ 💬 Ask me about UNIX shells, POSIX, LaTeX...  
 ⠿ 🍴 Monthly mirrors at [@carbon-vault](https://github.com/carbon-vault)  
-⠿ ✉️ Contact: <mnrvwl@protonmail.com>
+⠿ ✉️ Contact: <mnrvwl@protonmail.com>  
 ⠿ 📜 Former @mnrvwl (2020-2023)  
 
 ## 🎧 🎼
