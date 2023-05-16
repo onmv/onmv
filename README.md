@@ -5,7 +5,7 @@
 ⠿ 💬 Ask me about UNIX shells, POSIX, LaTeX...  
 ⠿ 🍴 Monthly mirrors at [@carbon-vault](https://github.com/carbon-vault)  
 ⠿ ✉️ Contact: <mnrvwl@protonmail.com>  
-⠿ 📜 Former @mnrvwl (2020-2023)  
+⠿ 📜 Former [@mnrvwl](https://github.com/onmv) (2020-2023)
 
 ## 🎧 🎼
 
