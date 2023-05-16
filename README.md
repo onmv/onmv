@@ -11,7 +11,11 @@ Former @mnrvwl (2020-2023)
 ## 🎧 🎼
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=motj6ae4rw0e5w88ytbm9xih2&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/mnvrwl)
 
-<a href="https://github.com/mnvrwl"><img src="https://spotify-github-profile.vercel.app/api/view?uid=motj6ae4rw0e5w88ytbm9xih2&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=motj6ae4rw0e5w88ytbm9xih2&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=false&amp;background_color=121212&amp;interchange=true&amp;bar_color=53b14f&amp;bar_color_cover=false" style="max-width: 100%;" height="43%" width="43%"></a>
+<a href="https://github.com/mnvrwl">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=motj6ae4rw0e5w88ytbm9xih2&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"
+       data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=motj6ae4rw0e5w88ytbm9xih2&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=false&amp;background_color=121212&amp;interchange=true&amp;bar_color=53b14f&amp;bar_color_cover=false"
+       alt="spotify-github-profile" style="max-width: 100%;" height="43%" width="43%">
+</a>
 
 ## 📊 📐
 
