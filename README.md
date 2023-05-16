@@ -3,8 +3,8 @@
 ⠿ 🌱 Learning cybersecurity, Python, Javascript...
 ⠿ 🚀 Looking to collaborate on testing, documentation and standards.  
 ⠿ 💬 Ask me about UNIX shells, POSIX, LaTeX...  
-⠿ 🍴 Monthly mirrors at [@carbon-vault](https://github.com/carbon-vault)  
 ⠿ ✉️ Contact: <mnrvwl@protonmail.com>  
+⠿ 🍴 Monthly mirrors at [@carbon-vault](https://github.com/carbon-vault)  
 ⠿ 📜 Former [@mnrvwl](https://github.com/onmv) (2020-2023)
 
 ## 🎧 🎼
